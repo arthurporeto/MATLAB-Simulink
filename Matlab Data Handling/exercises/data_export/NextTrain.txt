@@ -1,0 +1,2 @@
+Name	 Departure	 Arrival	 Time
+ICE 1001	 Berlin Gesundbrunnen	 München Hbf	 10:07	 

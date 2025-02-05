@@ -1,0 +1,222 @@
+[
+  {
+    "name": "ICE 1701",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T10:42",
+    "origin": "Berlin Gesundbrunnen",
+    "track": "15",
+    "detailsId": "595674%2F200878%2F351104%2F23006%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 503",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T11:03",
+    "origin": "Berlin Gesundbrunnen",
+    "track": "21",
+    "detailsId": "442146%2F153182%2F933734%2F319485%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ECE 97",
+    "type": "ECE",
+    "boardId": 8000261,
+    "stopId": 8098261,
+    "stopName": "München Hbf Gl.27-36",
+    "dateTime": "2021-04-30T11:04",
+    "origin": "Feldkirch",
+    "track": "30",
+    "detailsId": "579951%2F206440%2F714890%2F164128%2F80%3fstation_evaId%3D8098261"
+  },
+  {
+    "name": "ICE 525",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T11:11",
+    "origin": "Dortmund Hbf",
+    "track": "22",
+    "detailsId": "482301%2F166969%2F101434%2F110050%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "IC 267",
+    "type": "IC",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T11:12",
+    "origin": "Basel SBB",
+    "track": "16",
+    "detailsId": "17460%2F11095%2F988600%2F488480%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 591",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T11:27",
+    "origin": "Hamburg-Altona",
+    "track": "18",
+    "detailsId": "420762%2F147297%2F75906%2F102301%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "EC 218",
+    "type": "EC",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T11:41",
+    "origin": "Graz Hbf",
+    "track": "12",
+    "detailsId": "313173%2F115847%2F881476%2F336347%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "IC 1218",
+    "type": "IC",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T11:56",
+    "origin": "Innsbruck Hbf",
+    "track": "14",
+    "detailsId": "270825%2F101389%2F514216%2F166833%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 783",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T12:02",
+    "origin": "Hamburg-Altona",
+    "track": "12",
+    "detailsId": "360903%2F129326%2F816060%2F287729%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 1003",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T12:07",
+    "origin": "Berlin Gesundbrunnen",
+    "track": "21",
+    "detailsId": "397122%2F132596%2F906998%2F321125%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "EC 113",
+    "type": "EC",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T12:10",
+    "origin": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "track": "13",
+    "detailsId": "678270%2F237047%2F546122%2F46971%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 527",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T12:12",
+    "origin": "Dortmund Hbf",
+    "track": "23",
+    "detailsId": "470301%2F163032%2F369880%2F28173%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 513",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T12:27",
+    "origin": "Münster&#x0028;Westf&#x0029;Hbf",
+    "track": "14",
+    "detailsId": "581148%2F199680%2F263556%2F61938%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 701",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T12:42",
+    "origin": "Hamburg-Altona",
+    "track": "15",
+    "detailsId": "985434%2F336855%2F426028%2F115464%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 505",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T13:03",
+    "origin": "Hamburg-Altona",
+    "track": "24",
+    "detailsId": "145098%2F54197%2F339192%2F121230%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ECE 99",
+    "type": "ECE",
+    "boardId": 8000261,
+    "stopId": 8098261,
+    "stopName": "München Hbf Gl.27-36",
+    "dateTime": "2021-04-30T13:05",
+    "origin": "Zürich HB",
+    "track": "30",
+    "detailsId": "131631%2F57011%2F830224%2F371235%2F80%3fstation_evaId%3D8098261"
+  },
+  {
+    "name": "ICE 529",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T13:13",
+    "origin": "Dortmund Hbf",
+    "track": "22",
+    "detailsId": "68373%2F29108%2F719324%2F336871%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 593",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T13:27",
+    "origin": "Berlin Gesundbrunnen",
+    "track": "19",
+    "detailsId": "178080%2F66455%2F128364%2F4822%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "EC 114",
+    "type": "EC",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T13:41",
+    "origin": "Klagenfurt Hbf",
+    "track": "13",
+    "detailsId": "682932%2F238602%2F470322%2F7517%2F80%3fstation_evaId%3D8000261"
+  },
+  {
+    "name": "ICE 703",
+    "type": "ICE",
+    "boardId": 8000261,
+    "stopId": 8000261,
+    "stopName": "München Hbf",
+    "dateTime": "2021-04-30T14:07",
+    "origin": "Hamburg-Altona",
+    "track": "18",
+    "detailsId": "839457%2F288248%2F830382%2F135372%2F80%3fstation_evaId%3D8000261"
+  }
+]
